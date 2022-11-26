@@ -1,0 +1,13 @@
+/* conatiner */
+.container {width: 1000px;  margin: 0 auto;}
+
+/* row */
+.row {margin: 0 20px;}
+
+/* header */
+#header .data {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    color: #B5B5B5;
+}
