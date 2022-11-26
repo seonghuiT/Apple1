@@ -47,3 +47,11 @@ Naver 블로그, 카카오톡 미리보기 설정
 <meta property="al:android:package" content="안드로이드 패키지 이름" /> 
 <meta property="al:web:url" content="안드로이드 앱 URL" />
 
+
+
+https://engkimbs.tistory.com/922
+저스트파이 콘텐츠
+https://homzzang.com/b/css-229
+
+ flex
+https://studiomeal.com/archives/197
