@@ -2,7 +2,7 @@
 .container {width: 1000px;  margin: 0 auto;}
 
 /* row */
-.row {margin: 0 20px;}
+.row {margin: 0 20px; position: relative;}
 
 /* header */
 #header .data {
@@ -11,3 +11,28 @@
     line-height: 20px;
     color: #B5B5B5;
 }
+#header .title {
+    font-weight: 700;
+    font-size: 32px;
+    
+}
+
+#header .id {
+    position: absolute;
+    right: 0;
+    bottom: 0px;
+    width: 40px;
+    height: 40px;
+    background: linear-gradient(142.43deg, #ACACAC 4.35%, #E4E4E4 82.32%);
+    border-radius: 50%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+
+    font-weight: 300;
+    
+
+}
+
