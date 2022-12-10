@@ -38,6 +38,25 @@
 
 }
 
+/* bestM */
+.bestM .best-title .bt-stit { color: #C92B2B; font-size: 12px; font-weight: 500;}
+.bestM .best-title .bt-tit { font-size: 24px; font-weight: 600;}
+.bestM .best-title .bt-desc { color: #ACACAC; font-size: 24px; font-weight: 300; padding-bottom: 15px;}
+
+/* recentM */
+.recentM .recent {float: left; width: 49%; margin-right: 2%;}
+.recentM .recent:last-child {margin-right: 0;}
+.recentM h2 { font-size: 24px; font-weight: 600; margin-top: 20px; margin-bottom: 16px;
+              border-top: 1px solid #ccc;
+              padding-top: 20px;
+             }
+.recentM .recent-title {margin-top: 10px;}
+.recentM .recent-title .rt-stit { font-size: 20px; font-weight: 500; }
+.recentM .recent-title .rt-tit { font-size: 16px; font-weight: 300; color: #B5B5B5;}
+
+
+
+
 /* 반응형을 위한 mediaquery  */
 @media(max-width:1020px){
     .container{width: 100%;}
